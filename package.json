@@ -4,7 +4,7 @@
   "description": "Test-drive your Firefox/Chrome userscript",
   "author": "Jakub Gieryluk <jakub.g.opensource@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/jakub-g/userscript-phantom-tester"
+  "homepage": "https://github.com/jakub-g/userscript-phantom-tester",
   "repository": {
     "type": "git",
     "url": "https://github.com/jakub-g/userscript-phantom-tester.git"
@@ -16,5 +16,6 @@
     "tdd",
     "userscript",
     "xunit"
-  ]
+  ],
+  "main": "lib/phantom-tester.js"
 }
