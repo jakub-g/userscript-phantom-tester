@@ -1,0 +1,7 @@
+node_modules
+.project
+.settings
+.DS_Store
+.benchmarks.rb.swp
+.checkstyle
+*.log
