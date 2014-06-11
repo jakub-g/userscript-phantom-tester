@@ -1,6 +1,6 @@
 {
   "name": "userscript-phantom-tester",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test-drive your Firefox/Chrome userscript",
   "author": "Jakub Gieryluk <jakub.g.opensource@gmail.com>",
   "license": "MIT",
